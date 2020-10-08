@@ -1,0 +1,8 @@
+{
+  "singleQuote": true,
+  "jsxBracketSameLine": true,
+  "parser": "vue",
+  "tabWidth": 2,
+  "tabs": false,
+  "htmlWhitespaceSensetivity": "ignore"
+}
